@@ -1,0 +1,7 @@
+{
+  "name": "shopify-dhl-vercel-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^1.5.0"
+  }
+}
