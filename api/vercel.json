@@ -1,9 +1,0 @@
-{
-  "version": 2,
-  "builds": [
-    { "src": "api/carrier_service.js", "use": "@vercel/node" }
-  ],
-  "routes": [
-    { "src": "/carrier_service", "dest": "/api/carrier_service.js" }
-  ]
-}
